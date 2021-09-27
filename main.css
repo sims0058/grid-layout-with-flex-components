@@ -44,9 +44,9 @@ body {
         align-self: center;
         }
         
-/* Align Items*/
+/* Margin Buttons*/
 .emoji a {
-    align-items:flex-end;
+    margin-top: 1em;
     }
 
 /* Order Items*/
